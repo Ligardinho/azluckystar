@@ -23,7 +23,7 @@ export default function Testimonial() {
               </div>
             </div>
             <p className="text-gray-500  flex-1 text-sm">
-              &quot;I was pleasantly surprised by the excellent customer service I recieved from Drew and Jeff at AZ Lucky Star... I was just passing through AZ and they took me right in!! Thanks Guys!&quot;
+              "I was pleasantly surprised by the excellent customer service I recieved from Drew and Jeff at AZ Lucky Star... I was just passing through AZ and they took me right in!! Thanks Guys!"
             </p>
             <div className="mt-4 flex justify-center">
               <a href="tel:+1 480 674 3338">
@@ -51,7 +51,7 @@ export default function Testimonial() {
               </div>
             </div>
             <p className="text-gray-500 flex-1 text-sm">
-              &quot;Only best European vehicle specialist around town with good quality service, knowledgeable in Range rovers. Fixed my suv in a short time, with genuine parts and reasonable time. I would recommend them anytime.&quot;
+              "Only best European vehicle specialist around town with good quality service, knowledgeable in Range rovers. Fixed my suv in a short time, with genuine parts and reasonable time. I would recommend them anytime."
             </p>
             <div className="mt-4 flex justify-center">
               <a href="tel:+1 480 674 3338">
@@ -79,7 +79,7 @@ export default function Testimonial() {
               </div>
             </div>
             <p className="text-gray-500 flex-1 text-sm">
-              &quot;Courteous, knowledgeable, and honest! I always feel comfortable and confident that AZ Lucky Star will do what they promise.&quot;
+              "Courteous, knowledgeable, and honest! I always feel comfortable and confident that AZ Lucky Star will do what they promise."
             </p>
             <div className="mt-4 flex justify-center">
               <a href="tel:+1 480 674 3338">
