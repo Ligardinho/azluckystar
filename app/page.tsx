@@ -5,8 +5,8 @@ import { CarouselDemo } from "@/components/Carousel";
 
 export default function Home() {
   return (
-    <main className="flex justify-center md:w-full h-fit md:h-auto">
-      <div className="md:mt-[170px] flex flex-col items-center mt-[150px]">
+    <main className="flex justify-center md:w-full h-screen">
+      <div className="md:mt-[170px] flex flex-col items-center mt-[150px] h-full">
         <div className="flex flex-col items-center gap-2 md:gap-4 md:w-[800px]">
           <h1 className="md:text-4xl text-2xl font-extrabold text-center px-5 md:px-0">
             SOLVE YOUR <span className="text-[#E51C1B]">AUTOMOTIVE ISSUES</span> WITH MESA&apos;S <span className="text-[#E51C1B]">FINEST AUTO REPAIR SHOP</span>
