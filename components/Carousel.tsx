@@ -11,6 +11,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel"
+import AnalyticsWrapper from "./analytics-wrapper";
 
 export function CarouselDemo() {
   return (
@@ -41,10 +42,12 @@ export function CarouselDemo() {
                   </p>
                   <div className="mt-4 flex justify-center">
                     <a href="tel:+1 480 674 3338">
-                      <button className="bg-[#E51C1B] w-fit flex items-center gap-2 text-sm px-3 py-3 rounded-xl shadow text-white my-auto hover:bg-black">
-                        <IoCall size={20}/>
-                        Get a Quote
-                      </button>
+                      <AnalyticsWrapper id="funnel-button-1">
+                        <button className="bg-[#E51C1B] w-fit flex items-center gap-2 text-sm px-3 py-3 rounded-xl shadow text-white my-auto hover:bg-black">
+                          <IoCall size={20}/>
+                          Get a Quote
+                        </button>
+                      </AnalyticsWrapper>
                     </a>
                   </div>
                 </div>
@@ -77,10 +80,12 @@ export function CarouselDemo() {
                   </p>
                   <div className="mt-4 flex justify-center">
                     <a href="tel:+1 480 674 3338">
-                      <button className="bg-[#E51C1B] w-fit flex items-center gap-2 text-sm px-3 py-3 rounded-xl shadow text-white my-auto hover:bg-black">
-                        <IoCall size={20}/>
-                        Get a Quote
-                      </button>
+                      <AnalyticsWrapper id="funnel-button-2">
+                        <button className="bg-[#E51C1B] w-fit flex items-center gap-2 text-sm px-3 py-3 rounded-xl shadow text-white my-auto hover:bg-black">
+                          <IoCall size={20}/>
+                          Get a Quote
+                        </button>
+                      </AnalyticsWrapper>
                     </a>
                   </div>
                 </div>
@@ -113,10 +118,12 @@ export function CarouselDemo() {
                   </p>
                   <div className="mt-4 flex justify-center">
                     <a href="tel:+1 480 674 3338">
-                      <button className="bg-[#E51C1B] w-fit flex items-center gap-2 text-sm px-3 py-3 rounded-xl shadow text-white my-auto hover:bg-black">
-                        <IoCall size={20}/>
-                        Get a Quote
-                      </button>
+                      <AnalyticsWrapper id="funnel-button-3">
+                        <button className="bg-[#E51C1B] w-fit flex items-center gap-2 text-sm px-3 py-3 rounded-xl shadow text-white my-auto hover:bg-black">
+                          <IoCall size={20}/>
+                          Get a Quote
+                        </button>
+                      </AnalyticsWrapper>
                     </a>
                   </div>
                 </div>
