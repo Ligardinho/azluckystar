@@ -14,7 +14,7 @@ import {
 
 export function CarouselDemo() {
   return (
-    <Carousel className="md:w-full max-w-xs lg:hidden w-2/5-sm">
+    <Carousel className="md:w-full max-w-xs lg:hidden w-2/5-sm mx-auto">
       <CarouselContent>
           <CarouselItem>
             <div className="p-1">
