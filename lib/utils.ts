@@ -36,4 +36,4 @@ export const getDeviceType = () => {
   return 'unknown';
 };
 
-export const projectName = 'Analytics Test Site'
+export const projectName = 'Analytics Test Site New'
