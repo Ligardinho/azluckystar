@@ -15,6 +15,7 @@ export default function Home() {
         </div>
         <Testimonial/>
         <CarouselDemo/>
+        <i><h1 className="text-gray-500 md:text-sm text-[10px]">Visit <a href="https://www.azluckystar.com/" className="hover:text-[#E51C1B] transition-all">www.azluckystar.com</a> for more information</h1></i>
       </div>
     </main>
   );
