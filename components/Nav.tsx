@@ -3,7 +3,7 @@ import { BsTelephoneInboundFill } from "react-icons/bs";
 
 const Nav = () => {
   return (
-    <div className='h-[90px] md:h-[110px] bg-black fixed flex flex-row justify-between w-screen'>
+    <div className='h-[90px] md:h-[110px] bg-black flex flex-row justify-between w-screen'>
         <a className='flex items-center mx-7' href='https://www.azluckystar.com/'>
             <img src='/assets/Logo (White Text).png.webp' className='h-[50px] md:h-[65px]'></img>
         </a>
